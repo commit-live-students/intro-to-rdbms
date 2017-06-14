@@ -8,7 +8,6 @@ A Relational database management system (RDBMS) is a database management system 
 
 RDBMS used for data where the data is structured, i.e. you can represent the data in a tabular format without repeating the data values. So RDBMS is good in handling structured data.
 To handle RDBMS, we have a specific language called the Structured Query Language (SQL). SQL is common to all the below mentioned databases. Some of the features and formats vary is different databases but learning SQL in general can make it very easy to pick up any Relational Database System in no time.
-Some of the most common examples of RDBMS are:
 
 
 #### *__Tables__*
